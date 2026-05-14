@@ -152,3 +152,5 @@ GEODIST drivers:locations "driver:1" "driver:2" km
 - Driver scoring algorithm (distance + rating weighted score)
 - Service-to-service REST communication (Matching → Location Service)
 - Docker Compose for infrastructure setup
+
+Made with Love
